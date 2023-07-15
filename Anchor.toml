@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-savings_vault = "7UGWo3y9HkLof88nHW3LGYX5hVts9WAMMmEeYYLK8dKB"
+savings_vault = "HfJVM6Ayjajt9H58AZoCFqkCQQFehSeQfGQbi3crxT8W"
 
 [registry]
 url = "https://api.apr.dev"

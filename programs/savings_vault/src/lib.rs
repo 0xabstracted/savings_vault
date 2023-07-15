@@ -6,7 +6,7 @@ pub mod instructions;
 pub use anchor_lang::prelude::*;
 pub use instructions::*;
 
-declare_id!("7UGWo3y9HkLof88nHW3LGYX5hVts9WAMMmEeYYLK8dKB");
+declare_id!("HfJVM6Ayjajt9H58AZoCFqkCQQFehSeQfGQbi3crxT8W");
 
 #[program]
 pub mod savings_vault {
