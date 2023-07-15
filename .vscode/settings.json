@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/savings_vault/Cargo.toml",
+        "./programs/savings_vault/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}

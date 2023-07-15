@@ -1,0 +1,13 @@
+Here is the technical task:
+
+Write an anchor smart contract that allows wallets to create a USDC (or any SPL token) vault, transfer tokens to it, and withdraw from it. 
+
+Write an accompanying rust service that crawls the user vaults once per month and transfers 1% of the currently staked amount to the vault in interest.
+
+If possible:
+- use latest anchor packages
+- use async rust functions in the service (solana_client::non_blocking)
+
+This should take about ~5 hours max. If it takes longer you can skip the withdraw instruction and finish the rest. Ideally you send us your work in 3-5 days. 
+
+Let us know if any questions, thanks.
